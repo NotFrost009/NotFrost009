@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NotFrost009
-- 👀 I’m interested in becoming an ethical hacker
+- 👀 I’m interested in learning ethical hacking
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
